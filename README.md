@@ -1,0 +1,2 @@
+# pictureBed
+store common pic
